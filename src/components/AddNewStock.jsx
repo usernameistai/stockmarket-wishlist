@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './Button'
 import { IoIosAddCircle } from 'react-icons/io'
-import Input from './input'
+import Input from './Input'
 
 export default function AddNewStock({ 
   newStockSymbol, 
